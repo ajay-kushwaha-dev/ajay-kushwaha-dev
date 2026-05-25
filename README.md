@@ -16,7 +16,7 @@
 
 ### 🚀 Top Projects (Live Demos)
 1. **🌤️ Digital clock** - Show time and date.  
-   [👉 View Code](https://github.com/ajay-kushwaha-dev/digital-clock.git) | [🌐 Live Demo](digital-clock-chi-seven.vercel.app) 
+   [👉 View Code](https://github.com/ajay-kushwaha-dev/digital-clock.git) | [🌐 Live Demo](https://digital-clock-chi-seven.vercel.app/)
 
 ---
 📫 Connect with me: [kushwahaajay8211@gmail.com]
