@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Ajay Kushwaha
 
-<!--
-**ajay-kushwaha-dev/ajay-kushwaha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BCA Final Year Student | Active Frontend Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+* 🎓 Pursuing BCA (Final Year).
+* 🔍 Actively looking for Frontend Web Development Internships.
+* 📱 Coding everyday
+
+### 🛠️ My Tech Stack (Skills)
+* **Languages:** HTML5, CSS3, JavaScript (ES6)
+* **Libraries:** React.js(learning stage) 
+* **Tools & Platforms:** GitHub, Vercel
+
+### 🚀 Top Projects (Live Demos)
+1. **🌤️ Digital clock** - Show time and date.  
+   [👉 View Code](https://github.com/ajay-kushwaha-dev/digital-clock.git) | [🌐 Live Demo](digital-clock-chi-seven.vercel.app) 
+
+---
+📫 Connect with me: [kushwahaajay8211@gmail.com]
+LinkedIn:[https://www.linkedin.com/in/ajay-kushwaha-95028826b]
