@@ -17,8 +17,11 @@
 ### 🚀 Top Projects (Live Demos)
 1. **💻 My Portfolio** - My personal portfolio.
    [👉 View Code](https://github.com/ajay-kushwaha-dev/My-portfolio.git) | [🌐 Live Demo](https://my-portfolio-phi-eight-91.vercel.app)
-   
-2. **🕙 Digital clock** - Show time and date.  
+2. **⌨️ Calculator** - A beautiful, fully functional Calculator, and full physical keyboard support.
+   [👉 View Code](https://github.com/ajay-kushwaha-dev/CodeAlpha_Calculator.git) | [🌐 Live Demo](https://code-alpha-calculator-coral.vercel.app/)
+3. **🖼 Image Gallery** - Interactive Responsive Image Gallery with Lightbox.
+   [👉 View Code](https://github.com/ajay-kushwaha-dev/My-Image-Gallery.git) | [🌐 Live Demo](https://my-image-gallery-nine.vercel.app/)
+4. **🕙 Digital clock** - Show time and date.  
    [👉 View Code](https://github.com/ajay-kushwaha-dev/digital-clock.git) | [🌐 Live Demo](https://digital-clock-chi-seven.vercel.app/)
 
 ---
