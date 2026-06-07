@@ -21,9 +21,9 @@
    [👉 View Code](https://github.com/ajay-kushwaha-dev/CodeAlpha_Calculator.git) | [🌐 Live Demo](https://code-alpha-calculator-coral.vercel.app/)
 3. **🖼 Image Gallery** - Interactive Responsive Image Gallery with Lightbox.
    [👉 View Code](https://github.com/ajay-kushwaha-dev/My-Image-Gallery.git) | [🌐 Live Demo](https://my-image-gallery-nine.vercel.app/)
-4. **🕙 Digital clock** - Show time and date.  
+4. **🕙 Digital clock** - Show time and date.
    [👉 View Code](https://github.com/ajay-kushwaha-dev/digital-clock.git) | [🌐 Live Demo](https://digital-clock-chi-seven.vercel.app/)
 
 ---
-📫 Connect with me: [kushwahaajay8211@gmail.com]
-LinkedIn:[https://www.linkedin.com/in/ajay-kushwaha-95028826b]
+📫 Connect with me: [Gmail](kushwahaajay8211@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/ajay-kushwaha-95028826b) 
