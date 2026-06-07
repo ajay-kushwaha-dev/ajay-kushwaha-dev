@@ -25,5 +25,5 @@
    [👉 View Code](https://github.com/ajay-kushwaha-dev/digital-clock.git) | [🌐 Live Demo](https://digital-clock-chi-seven.vercel.app/)
 
 ---
-📫 Connect with me: [Gmail](kushwahaajay8211@gmail.com) 
+📫 Connect with me: [Gmail](kushwahaajay8211@gmail.com)        
 [LinkedIn](https://www.linkedin.com/in/ajay-kushwaha-95028826b) 
